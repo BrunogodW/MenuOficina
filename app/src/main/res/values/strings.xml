@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oficina Auto Control</string>
+
+    <!-- Navigation Strings -->
+    <string name="nav_home">Início</string>
+    <string name="nav_servicos">Serviços</string>
+    <string name="nav_panorama">Panorama Nav</string>
+
+    <!-- Toolbar Options Menu -->
+    <string name="action_search">Pesquisar</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="action_about">Sobre o App</string>
+
+    <!-- Popup Menu -->
+    <string name="popup_detalhes">Ver Detalhes</string>
+    <string name="popup_editar">Editar Serviço</string>
+    <string name="popup_compartilhar">Compartilhar Ordem</string>
+    <string name="popup_excluir">Excluir Ordem</string>
+
+    <!-- UI Strings -->
+    <string name="welcome_title">Gestão de Oficina</string>
+    <string name="welcome_subtitle">Aplicação demonstrativa de componentes de navegação Android.</string>
+    <string name="popup_demo_title">Demonstração de PopupMenu</string>
+    <string name="popup_demo_desc">Toque no botão abaixo ou mantenha pressionado o cartão para abrir o PopupMenu.</string>
+    <string name="btn_open_popup">Abrir PopupMenu</string>
+    <string name="label_veiculo">Veículo: %1$s</string>
+</resources>
